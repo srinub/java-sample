@@ -15,7 +15,7 @@
   "container": {
     "docker": {
       "image": "nareshbalajia/java_app:dev3",
-      "forcePullImage": false,
+      "forcePullImage": true,
       "privileged": false,
       "portMappings": [
         {

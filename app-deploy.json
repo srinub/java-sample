@@ -1,3 +1,4 @@
+[
 {
   "id": "sample-app",
   "container": {
@@ -20,3 +21,4 @@
     "HAPROXY_0_VHOST": "dcos-southeastasia-slavelbdns.southeastasia.cloudapp.azure.com"
   }
 }
+]

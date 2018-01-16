@@ -9,7 +9,8 @@
     "HAPROXY_DEPLOYMENT_GROUP": "sample-java-app",
     "HAPROXY_DEPLOYMENT_ALT_PORT": "10005",
     "HAPROXY_GROUP": "external",
-    "HAPROXY_0_VHOST": "dcos-southeastasia-slavelbdns.southeastasia.cloudapp.azure.com"
+    "HAPROXY_0_VHOST": "dcos-southeastasia-slavelbdns.southeastasia.cloudapp.azure.com",
+    "HAPROXY_0_PORT": "8080"
   },
   "healthChecks": [],
   "container": {

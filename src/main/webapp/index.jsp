@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello Ganesh the Genius!, Karthik the Mass</h2>
+<h2>Hello People!!</h2>
 </body>
 </html>

@@ -6,7 +6,7 @@
       { "hostPort": 0, "containerPort": 8080, "servicePort": 10004, "protocol": "tcp"}
     ],
     "docker": {
-      "image": "nareshbalajia/java_app:dev2"
+      "image": "nareshbalajia/java_app:dev3"
     }
   },
   "instances": 1,

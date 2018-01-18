@@ -1,6 +1,6 @@
 [
 {
-  "id": "sample-app",
+  "id": "sample-java",
   "cpus": 1,
   "mem": 512,
   "disk": 0,
